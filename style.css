@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: aliceblue 
+}
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@200;400&family=Roboto:ital,wght@1,100&family=Splash&family=The+Nautigal&display=swap');body{
+    text-align: center;
+    background-color: rgb(0, 115, 255);
+    display: flex;
+}
+#vegetableSaladImage{
+    width: 20vw;
+    height: 35vh;
+    border: 5px solid black;
+    padding: 2px;
+    border-radius: 20px;
+    
+}
+#titleName{
+    font-family: 'Arima', cursive;
+    color: darkslategrey;
+}
+#benefits{
+    font-family: 'Arima', cursive;
+    color: rgba(0, 255, 255, 0.927);
+}
+#steps{
+    font-family: 'Arima', cursive;
+    color: blueviolet;
+}
+#footerText{
+    border: 25px;
+    padding-top: 35px;
+}
+#ve
